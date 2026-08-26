@@ -1,0 +1,6 @@
+{
+  "name": "Magic Bolota",
+  "description": "Sistema profissional para restaurar foco, deblur, redução de ruído, 300 DPI e processar filas em lote de múltiplas imagens com aplicação automática de presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
